@@ -16,6 +16,7 @@ Women Who Go Tokyo運営。<br>
 * Facebook: https://www.facebook.com/mom0tomo
 * Qiita: https://qiita.com/mom0tomo
 * SpeakerDeck: https://speakerdeck.com/mom0tomo
+* blog: https://mom0tomo.github.io
 
 ## English
 
